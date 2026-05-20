@@ -2,7 +2,7 @@
 version: v1.25.1
 # ignores vulnerabilities until expiry date; change duration by modifying expiry date
 ignore:
-  SNYK-RUBY-JWT-16755447:
+  SNYK-JWT-16755447:
     - '*':
         reason: None Given
         expires: 2030-01-01T00:00:00.000Z
